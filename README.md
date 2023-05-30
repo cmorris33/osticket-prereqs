@@ -15,15 +15,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- MAC OS </b> 
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Enable IIS with CGI an Common HTTP Features
+- Install PHP Manager for IIS 
+- Install Rewrite Module 
+- Install and download SQL
+- Install osTisket
 
 <h2>Installation Steps</h2>
 
