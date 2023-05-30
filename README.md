@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Enable IIS with CGI an Common HTTP Features
 - Install PHP Manager for IIS 
 - Install Rewrite Module 
-- Install and download SQL
+- Install and download MYSQL
 - Install osTisket
 
 <h2>Installation Steps</h2>
