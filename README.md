@@ -56,7 +56,7 @@ To install the Rewrite Module, open the IIS Manager on your computer. Then, find
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, we would download MySQL. To download MySQL go to the official MySQL website. Look for the "Downloads" section and click on it. On the downloads page, you'll see different versions of MySQL. Choose the version that suits your needs, like "MySQL Community Edition." Click on the download button for your operating system, such as Windows or Mac. The download should start automatically. Once the download is complete, open the downloaded file and follow the installation instructions. After the installation is finished, you will have MySQL successfully downloaded on your computer, ready to use for managing databases.
+Next, we would download MySQL. To download MySQL go to the official MySQL website. Look for the "Downloads" section and click on it. On the downloads page, you'll see different versions of MySQL. Choose the version that suits your needs, like "MySQL Community Edition." Click on the download button for your operating system, such as Windows or Mac. The download should start automatically. Once the download is complete, open the downloaded file and follow the installation instructions. After the installation is finished, you will have MySQL successfully downloaded on your computer, ready to use for managing databases. Then we would open IIS as an Admin and register PHP from within IIS. 
 </p>
 <br />
 
@@ -64,6 +64,6 @@ Next, we would download MySQL. To download MySQL go to the official MySQL websit
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To downlaod and install osTicket download from either website or installation file folder. Extract and copy "upload" folder to C\inetpub\wwwroot. Within C:\inetpub\wwwroot, Rename "Upload" to "osTicket". Reload IIS then finish download the rest of the extensions that were not enabled. 
+Finally,to downlaod and install osTicket download from either website or installation file folder. Extract and copy "upload" folder to C\inetpub\wwwroot. Within C:\inetpub\wwwroot, Rename "Upload" to "osTicket". Reload IIS then finish download the rest of the extensions that were not enabled. 
 </p>
 <br />
