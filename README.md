@@ -48,7 +48,7 @@ Download the PHP Manager for IIS installation package from the official Microsof
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To install the Rewrite Module, open the IIS Manager on your computer. Then, find the "Modules" option and click on it. Next, choose "Add Managed Module" and give the module a name, like "Rewrite Module." Finally, save the changes. Now, the Rewrite Module is installed and you can use it to easily change and control website URLs on your IIS server.
+To install the Rewrite Module, open the IIS Manager on your computer. Then, find the "Modules" option and click on it. Next, choose "Add Managed Module" and give the module a name, like "Rewrite Module." Finally, save the changes. Now, the Rewrite Module is installed and you can use it to easily change and control website URLs on your IIS server. Next, we can now create the directory for C:\PHP
 </p>
 <br />
 
@@ -56,7 +56,7 @@ To install the Rewrite Module, open the IIS Manager on your computer. Then, find
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To download MySQL go to the official MySQL website. Look for the "Downloads" section and click on it. On the downloads page, you'll see different versions of MySQL. Choose the version that suits your needs, like "MySQL Community Edition." Click on the download button for your operating system, such as Windows or Mac. The download should start automatically. Once the download is complete, open the downloaded file and follow the installation instructions. After the installation is finished, you will have MySQL successfully downloaded on your computer, ready to use for managing databases.
+Next, we would download MySQL. To download MySQL go to the official MySQL website. Look for the "Downloads" section and click on it. On the downloads page, you'll see different versions of MySQL. Choose the version that suits your needs, like "MySQL Community Edition." Click on the download button for your operating system, such as Windows or Mac. The download should start automatically. Once the download is complete, open the downloaded file and follow the installation instructions. After the installation is finished, you will have MySQL successfully downloaded on your computer, ready to use for managing databases.
 </p>
 <br />
 
